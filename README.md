@@ -6,6 +6,11 @@
 # Acerca de mí 👀
 Soy estudiante de la carrera de ingeniería en computación, con una excelente capacidad de organización y facilidad para trabajar en equipo. Me considero altamente adaptable a diferentes entornos y siempre enfocada en alcanzar objetivos. Además, poseo conocimientos en diversos lenguajes de programación como Java, JavaScript, C++, HTML, CSS, python. 
 Me apasiona el desarrollo Front-end y Back-end, actualmente estoy aprendiendo el desarrollo web.
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <!--
