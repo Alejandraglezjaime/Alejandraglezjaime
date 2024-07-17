@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div align="center">
-<h1 align="center">Hola, soy ale</h1> 
+<h1 align="center">Hola, soy Ale 👋</h1> 
 </div>
 
 <!--
