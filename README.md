@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Ale <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1> 
 </div>
-![Imagen principal](https://github.com/Alejandraglezjaime/Pagina-barberia/blob/master/@AlejandraGonzalez.jpg?raw=true)
+
+<img src="https://github.com/Alejandraglezjaime/Pagina-barberia/blob/master/@AlejandraGonzalez.jpg?raw=true">
 
 # Acerca de mí 👀
 <a target="_blank" align="center">
