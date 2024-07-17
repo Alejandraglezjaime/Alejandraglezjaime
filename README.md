@@ -2,6 +2,7 @@
 <h1 align="center">Hola, soy Ale 👋</h1> 
 </div>
 
+<img src="https://alejandraglezjaime.my.canva.site/alejandragonzalez">
 <!--
 **Alejandraglezjaime/Alejandraglezjaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
