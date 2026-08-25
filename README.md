@@ -27,6 +27,20 @@ I am a Computer Engineer with experience in software development, front-end, and
 
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Alejandraglezjaime&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandraglezjaime&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages"
+  />
+</p>
+
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 
 <!--icons and links-->
 <p align="center">
